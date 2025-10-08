@@ -44,7 +44,7 @@ let teachersString = ''
 
 for (i = 0; i < teachers.length; i++){
   teachersString += teachers[i]
-  
+
   if (i < teachers.length - 1){
     teachersString += ', '
   }
